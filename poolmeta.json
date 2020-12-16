@@ -1,6 +1,1 @@
-{
-"name": "[Add your pool name here]",
-"ticker": "[Add your ticker here: 3 to 5 characters long]",
-"homepage": "[Add your webpage url here]",
-"description": "[Add your description here]"
-}
+{"name":"RAISE","ticker":"RAISE","description":"RAISE pool for the poker community","homepage":"https://raise-stake-pool.github.io","nonce":"1608126395"}
