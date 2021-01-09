@@ -1,1 +1,7 @@
-{"name":"LAMBO pool","ticker":"LAMBO","description":"LAMBO pool for future LAMBO owners","homepage":"https://lambo-stake-pool.github.io","nonce":"1608127591"}
+{
+  "name": "LAMBO",
+  "ticker": "LAMBO",
+  "description": "LAMBO staking pool",
+  "homepage": "https://lambo-stake-pool.github.io",
+  "nonce": "1610214374"
+}
